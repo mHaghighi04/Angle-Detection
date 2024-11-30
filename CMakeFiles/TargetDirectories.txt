@@ -1,0 +1,3 @@
+/Users/miladhaghighi/c++-files/Angle Detection/CMakeFiles/RedChannelExtractor.dir
+/Users/miladhaghighi/c++-files/Angle Detection/CMakeFiles/edit_cache.dir
+/Users/miladhaghighi/c++-files/Angle Detection/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/miladhaghighi/c++ files/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -isystem /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/RedChannelExtractor.dir/test.cpp.o -c \"/Users/miladhaghighi/c++ files/test.cpp\"",
+  "file": "/Users/miladhaghighi/c++ files/test.cpp",
+  "output": "CMakeFiles/RedChannelExtractor.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/miladhaghighi/c++ files/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14  -isystem /opt/homebrew/Cellar/opencv/4.10.0_12/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/RedChannelExtractor.dir/angleDetection.cpp.o -c \"/Users/miladhaghighi/c++ files/angleDetection.cpp\"",
+  "file": "/Users/miladhaghighi/c++ files/angleDetection.cpp",
+  "output": "CMakeFiles/RedChannelExtractor.dir/angleDetection.cpp.o"
+}
+]
